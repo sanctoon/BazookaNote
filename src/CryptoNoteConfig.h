@@ -74,7 +74,7 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json"
 
 //TODO Put here the name of your currency
 const char     CRYPTONOTE_NAME[]                             = "bazookanote";
-const char     GENESIS_COINBASE_TX_HEX[]                     = "013c01ff0001ffffffffffff03029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd088071210153d2c5f9266a496c3bdf7a818d9f9353aeca61a13b7345379d5b7b869bb9e7bd";
+const char     GENESIS_COINBASE_TX_HEX[]                     = "013c01ff0001ffffffffffff03029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd08807121012b53b9ecfd4de95c2d7134e1a38bba2f96b535c31e198d6667a73213a9b5dcc4";
 
 const uint8_t  CURRENT_TRANSACTION_VERSION                   =  1;
 const uint8_t  BLOCK_MAJOR_VERSION_1                         =  1;
